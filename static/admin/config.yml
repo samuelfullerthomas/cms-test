@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: samuelfullerthomas/gatsby-starter-netlify-cms
+  repo: samuelfullerthomas/cms-test
 
 media_folder: static/img
 public_folder: /img
